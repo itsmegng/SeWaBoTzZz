@@ -1,6 +1,7 @@
 
 
-![gng](https://user-images.githubusercontent.com/88885503/131460375-c8cc703e-af6c-43af-8d12-  d3283bb08852.jpg)
+![gng](https://user-images.githubusercontent.com/88885503/131461098-2a9506e2-07ea-4be0-8fdf-fdbe4c1e433c.jpg)
+
 
 
 
@@ -23,7 +24,7 @@
 
 
 
-
+# My Testi 👇
 
 
 ![Screenshot_2021-07-11-18-30-28-939_com whatsapp w4b](https://user-images.githubusercontent.com/88885503/131460791-3ebacb1c-5cef-4296-91a0-cf917b3841a7.jpg)
