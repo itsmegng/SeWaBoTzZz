@@ -1,6 +1,6 @@
 
 
-[gng](https://user-images.githubusercontent.com/88885503/131460375-c8cc703e-af6c-43af-8d12-  d3283bb08852.jpg)
+![gng](https://user-images.githubusercontent.com/88885503/131460375-c8cc703e-af6c-43af-8d12-  d3283bb08852.jpg)
 
 
 
