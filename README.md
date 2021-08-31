@@ -22,9 +22,9 @@
 
 </a>
 
-<a href="https://github.com/TheDudeThatCode/TheD">
+<a href="https://github.com/itsmegnTheD">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheDudeThatCode&repo=TheDudeThatCode&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsmegng&repo=itsmegng&theme=dark" />
 
 </a>
 
