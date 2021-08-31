@@ -20,11 +20,6 @@
 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmegng&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
 
-</a>
-
-<a href="https://github.com/itsmegn">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsmegng&repo=itsmegng&theme=dark" />
 
 </a>
 
