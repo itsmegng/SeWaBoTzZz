@@ -1,7 +1,8 @@
 
 
+![gng](https://user-images.githubusercontent.com/88885503/131460375-c8cc703e-af6c-43af-8d12-d3283bb08852.jpg)
 
-https://user-images.githubusercontent.com/88885503/131460053-b67b9956-7f83-436d-876b-2aaa16276d4e.mp4
+
 
 
 
