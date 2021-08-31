@@ -22,7 +22,7 @@
 
 </a>
 
-<a href="https://github.com/itsmegnTheD">
+<a href="https://github.com/itsmegn">
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsmegng&repo=itsmegng&theme=dark" />
 
