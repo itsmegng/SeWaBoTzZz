@@ -43,6 +43,11 @@
 # I'M AgungID<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 
+# Sewa Bot Manen 
+# 20 k
+
+# Sewabot 1 Bulan
+# 15 K
 
 
 
